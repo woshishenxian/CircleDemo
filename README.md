@@ -16,3 +16,8 @@
 
 效果图
 
+<img src="https://github.com/woshishenxian/CircleDemo/blob/master/imgs/1.png" width="50%"/>
+
+<img src="https://github.com/woshishenxian/CircleDemo/blob/master/imgs/2.png" width="50%"/> 
+
+<img src="https://github.com/woshishenxian/CircleDemo/blob/master/imgs/3.png" width="50%"/> 
